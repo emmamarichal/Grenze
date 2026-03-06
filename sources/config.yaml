@@ -5,6 +5,7 @@
       - wght
       - ital
     familyName: Grenze
+    cleanUp: true
     stat:
       Grenze[wght].ttf:
       - name: Weight

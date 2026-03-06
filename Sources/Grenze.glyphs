@@ -1,7 +1,8 @@
 {
 .appVersion = "3516";
 DisplayStrings = (
-"/jacute/jacute/jacute/jacute/jacute/jacute/zero.tosf/zero.tosf/zero.tosf/zero.tosf/zero.tosf/zero.tosf/one.tosf/one.tosf/one.tosf/one.tosf/one.tosf/one.tosf/two.tosf/two.tosf/two.tosf/two.tosf/two.tosf/two.tosf/three.tosf/three.tosf/three.tosf/three.tosf/three.tosf/three.tosf/four.tosf/four.tosf/four.tosf/four.tosf/four.tosf/four.tosf/five.tosf/five.tosf/five.tosf/five.tosf/five.tosf/five.tosf/six.tosf/six.tosf/six.tosf/six.tosf/six.tosf/six.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/macronbelowcomb/macronbelowcomb/macronbelowcomb"
+"/jacute/jacute/jacute/jacute/jacute/jacute/zero.tosf/zero.tosf/zero.tosf/zero.tosf/zero.tosf/zero.tosf/one.tosf/one.tosf/one.tosf/one.tosf/one.tosf/one.tosf/two.tosf/two.tosf/two.tosf/two.tosf/two.tosf/two.tosf/three.tosf/three.tosf/three.tosf/three.tosf/three.tosf/three.tosf/four.tosf/four.tosf/four.tosf/four.tosf/four.tosf/four.tosf/five.tosf/five.tosf/five.tosf/five.tosf/five.tosf/five.tosf/six.tosf/six.tosf/six.tosf/six.tosf/six.tosf/six.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/seven.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/eight.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/nine.tosf/macronbelowcomb/macronbelowcomb/macronbelowcomb",
+"AÆBCDEFGHIJKLMN/Eng/Nhookleft O/OE PÞQRS/Germandbls/Schwa TUVWXYZ/M.alt/N.alt/Eng.alt/Nhookleft.alt aæbcdðe/schwa fgh/idotless j/jdotless k/kgreenlandic lmn/eng/nhookleft opþqrsß/longs tuvwxyz/c_k/f_f/f_f_i/f_f_l/f_h/fi/fl/s_t/t_t"
 );
 classes = (
 {
@@ -17286,8 +17287,8 @@ nodes = (
 "379 -129 OFFCURVE",
 "432 -67 OFFCURVE",
 "432 5 CURVE",
-"431 455 LINE SMOOTH",
-"431 559 OFFCURVE",
+"432 455 LINE SMOOTH",
+"432 559 OFFCURVE",
 "396 601 OFFCURVE",
 "315 601 CURVE SMOOTH",
 "280 601 OFFCURVE",
@@ -17477,8 +17478,8 @@ nodes = (
 "82 -129 OFFCURVE",
 "134 -67 OFFCURVE",
 "134 5 CURVE SMOOTH",
-"131 542 LINE",
-"105 575 LINE",
+"134 542 LINE",
+"104 575 LINE",
 "104 3 LINE SMOOTH",
 "104 -67 OFFCURVE",
 "61 -97 OFFCURVE",
