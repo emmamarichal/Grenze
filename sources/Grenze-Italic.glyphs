@@ -70,20 +70,12 @@ name = "Use Typo Metrics";
 value = 1;
 },
 {
-name = "Axis Mappings";
-value = {
-wght = {
-29 = 100;
-44 = 200;
-66 = 300;
-88 = 400;
-101 = 500;
-116 = 600;
-133 = 700;
-150 = 800;
-167 = 900;
-};
-};
+name = license;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+},
+{
+name = licenseURL;
+value = "http://scripts.sil.org/OFL";
 },
 {
 name = trademark;
@@ -92,14 +84,6 @@ value = "Grenze is a trademark of Omnibus-Type";
 {
 name = vendorID;
 value = OMNI;
-},
-{
-name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
-},
-{
-name = licenseURL;
-value = "http://scripts.sil.org/OFL";
 },
 {
 name = Axes;
@@ -641,6 +625,7 @@ alignmentZones = (
 );
 ascender = 750;
 capHeight = 591;
+custom = Thin;
 customParameters = (
 {
 name = typoAscender;
@@ -677,6 +662,15 @@ value = 380;
 {
 name = underlinePosition;
 value = -170;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 descender = -250;
@@ -701,15 +695,16 @@ horizontalStems = (
 0,
 0
 );
+iconName = Light;
 id = "16B79A64-180D-495F-8650-CA27198DF3EF";
 italicAngle = 10;
 verticalStems = (
 29,
 0,
 0,
+0,
 0
 );
-weight = Light;
 weightValue = 29;
 xHeight = 440;
 },
@@ -763,6 +758,15 @@ value = 380;
 {
 name = underlinePosition;
 value = -170;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 descender = -250;
@@ -794,6 +798,7 @@ verticalStems = (
 88,
 91,
 99,
+0,
 0
 );
 weightValue = 88;
@@ -849,6 +854,15 @@ value = 380;
 {
 name = underlinePosition;
 value = -170;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 descender = -250;
@@ -880,7 +894,8 @@ verticalStems = (
 167,
 172,
 185,
-197
+197,
+0
 );
 weight = Bold;
 weightValue = 167;
@@ -82466,6 +82481,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 interpolationWeight = 29;
@@ -82497,6 +82521,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
 }
 );
 interpolationWeight = 44;
@@ -82529,6 +82562,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
 }
 );
 interpolationWeight = 66;
@@ -82561,6 +82603,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
 }
 );
 interpolationWeight = 88;
@@ -82590,6 +82641,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 interpolationWeight = 101;
@@ -82622,6 +82682,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
 }
 );
 interpolationWeight = 116;
@@ -82654,6 +82723,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
 }
 );
 interpolationWeight = 133;
@@ -82686,6 +82764,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
 }
 );
 interpolationWeight = 150;
@@ -82718,6 +82805,15 @@ value = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --windows-compatibility";
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 interpolationWeight = 167;
