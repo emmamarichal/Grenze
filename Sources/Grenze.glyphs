@@ -133,6 +133,7 @@ featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem latn dflt;";
+disabled = 1;
 name = Prefix;
 },
 {

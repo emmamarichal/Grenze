@@ -1,16 +1,16 @@
-    sources:
-      - Grenze.glyphs
-      - Grenze-Italic.glyphs
-    axisOrder:
-      - wght
-      - ital
-    familyName: Grenze
-    cleanUp: true
-    stat:
-      Grenze[wght].ttf:
-      - name: Weight
-        tag: wght
-        values:
+sources:
+  - Grenze.glyphs
+  - Grenze-Italic.glyphs
+axisOrder:
+  - wght
+  - ital
+familyName: Grenze
+cleanUp: true
+stat:
+  Grenze[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
         - name: Thin
           value: 100
         - name: ExtraLight
@@ -31,17 +31,17 @@
           value: 800
         - name: Black
           value: 900
-      - name: Italic
-        tag: ital
-        values:
+    - name: Italic
+      tag: ital
+      values:
         - name: Roman
           value: 0
           linkedValue: 1
           flags: 2
-      Grenze-Italic[wght].ttf:
-      - name: Weight
-        tag: wght
-        values:
+  Grenze-Italic[wght].ttf:
+    - name: Weight
+      tag: wght
+      values:
         - name: Thin
           value: 100
         - name: ExtraLight
@@ -62,8 +62,8 @@
           value: 800
         - name: Black
           value: 900
-      - name: Italic
-        tag: ital
-        values:
+    - name: Italic
+      tag: ital
+      values:
         - name: Italic
           value: 1
