@@ -74756,31 +74756,6 @@ instanceInterpolations = {
 };
 name = Black;
 weightClass = 900;
-},
-{
-customParameters = (
-{
-name = "Variable Font Origin";
-value = "555729A4-F539-4650-9C4F-3880CB033E7B";
-},
-{
-name = fileName;
-value = "Grenze[wght]";
-}
-);
-name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Grenze;
-}
-);
-}
-);
-type = variable;
 }
 );
 kerningLTR = {

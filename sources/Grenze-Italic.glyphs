@@ -82724,31 +82724,6 @@ isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
 weightClass = 900;
-},
-{
-customParameters = (
-{
-name = "Variable Font Origin";
-value = "D9712079-C16A-42CB-8BA4-BD9ECFFACF10";
-},
-{
-name = fileName;
-value = "Grenze-Italic[wgth]";
-}
-);
-name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = Grenze;
-}
-);
-}
-);
-type = variable;
 }
 );
 kerningLTR = {
