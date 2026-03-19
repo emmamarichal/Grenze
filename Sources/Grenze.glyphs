@@ -74124,6 +74124,7 @@ unicode = 697;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0009;
 layers = (
 {
@@ -74143,6 +74144,7 @@ unicode = 9;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni000A;
 layers = (
 {
@@ -74162,6 +74164,7 @@ unicode = 10;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0010;
 layers = (
 {
@@ -74181,6 +74184,7 @@ unicode = 16;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0011;
 layers = (
 {
@@ -74200,6 +74204,7 @@ unicode = 17;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0012;
 layers = (
 {
@@ -74219,6 +74224,7 @@ unicode = 18;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0013;
 layers = (
 {
@@ -74238,6 +74244,7 @@ unicode = 19;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni0014;
 layers = (
 {
@@ -74257,6 +74264,7 @@ unicode = 20;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni001E;
 layers = (
 {
@@ -74276,6 +74284,7 @@ unicode = 30;
 },
 {
 color = 4;
+export = 0;
 glyphname = uni001F;
 layers = (
 {
@@ -74295,6 +74304,7 @@ unicode = 31;
 },
 {
 color = 4;
+export = 0;
 glyphname = uniE0FF;
 layers = (
 {
@@ -74314,6 +74324,7 @@ unicode = 57599;
 },
 {
 color = 4;
+export = 0;
 glyphname = uniEFFD;
 layers = (
 {
@@ -74333,6 +74344,7 @@ unicode = 61437;
 },
 {
 color = 4;
+export = 0;
 glyphname = uniF000;
 layers = (
 {
