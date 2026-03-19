@@ -49311,6 +49311,42 @@ width = 600;
 );
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
+width = 600;
+},
+{
+layerId = "555729A4-F539-4650-9C4F-3880CB033E7B";
+width = 600;
+},
+{
+layerId = "CB0A0A08-290D-4820-BDFF-3CAB47D8DECF";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = "4F39836F-1187-466E-8FAB-7EBF43C51BB4";
+width = 600;
+},
+{
+layerId = "555729A4-F539-4650-9C4F-3880CB033E7B";
+width = 600;
+},
+{
+layerId = "CB0A0A08-290D-4820-BDFF-3CAB47D8DECF";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 color = 4;
 glyphname = "leftanglebracket-math";
 layers = (
