@@ -46,7 +46,7 @@ nine.numr";
 name = numr;
 }
 );
-copyright = "Copyright (c) 2019, The Grenze Project Authors (https://github.com/Omnibus-Type/Grenze)";
+copyright = "Copyright 2019, The Grenze Project Authors (https://github.com/Omnibus-Type/Grenze)";
 customParameters = (
 {
 name = fsType;
@@ -67,11 +67,11 @@ value = 1;
 },
 {
 name = license;
-value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org";
 },
 {
 name = licenseURL;
-value = "http://scripts.sil.org/OFL";
+value = "https://openfontlicense.org";
 },
 {
 name = trademark;
@@ -686,22 +686,11 @@ position = "{166, 727}";
 );
 horizontalStems = (
 25,
-29,
-0,
-0,
-0,
-0
+29
 );
 iconName = Light;
 id = "16B79A64-180D-495F-8650-CA27198DF3EF";
 italicAngle = 10;
-verticalStems = (
-29,
-0,
-0,
-0,
-0
-);
 weightValue = 29;
 xHeight = 440;
 },
@@ -783,21 +772,10 @@ position = "{166, 768}";
 );
 horizontalStems = (
 45,
-49,
-54,
-60,
-64,
-74
+49
 );
 id = "D9712079-C16A-42CB-8BA4-BD9ECFFACF10";
 italicAngle = 10;
-verticalStems = (
-88,
-91,
-99,
-0,
-0
-);
 weightValue = 88;
 xHeight = 448;
 },
@@ -879,21 +857,10 @@ position = "{535, 793}";
 );
 horizontalStems = (
 85,
-93,
-0,
-0,
-0,
-0
+93
 );
 id = "E259E77F-022A-45EF-A0F1-1168268390B3";
 italicAngle = 10;
-verticalStems = (
-167,
-172,
-185,
-197,
-0
-);
 weight = Bold;
 weightValue = 167;
 xHeight = 462;
@@ -48924,7 +48891,9 @@ paths = (
 closed = 1;
 nodes = (
 "440 0 LINE",
-"419 110 LINE",
+"475 201 LINE",
+"398 201 LINE",
+"368 110 LINE",
 "256 110 LINE",
 "257 120 LINE",
 "445 310 OFFCURVE",
@@ -48936,9 +48905,11 @@ nodes = (
 "251 593 OFFCURVE",
 "174 580 OFFCURVE",
 "92 562 CURVE",
-"127 446 LINE",
-"186 468 OFFCURVE",
-"256 494 OFFCURVE",
+"67 359 LINE",
+"148 359 LINE",
+"175 464 LINE",
+"219 480 OFFCURVE",
+"259 494 OFFCURVE",
 "268 494 CURVE SMOOTH",
 "291 494 OFFCURVE",
 "299 482 OFFCURVE",
@@ -48947,26 +48918,6 @@ nodes = (
 "286 344 OFFCURVE",
 "-2 64 CURVE",
 "-1 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"372 229 OFFCURVE",
-"307 396 OFFCURVE",
-"440 0 LINE",
-"475 201 LINE",
-"398 201 LINE",
-"332 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"148 359 LINE",
-"201 562 LINE",
-"92 562 LINE",
-"67 359 LINE"
 );
 }
 );
@@ -48979,7 +48930,9 @@ paths = (
 closed = 1;
 nodes = (
 "366 0 LINE",
-"340 74 LINE",
+"393 160 LINE",
+"346 160 LINE",
+"321 74 LINE",
 "146 74 LINE",
 "147 84 LINE",
 "346 302 OFFCURVE",
@@ -48991,9 +48944,11 @@ nodes = (
 "245 573 OFFCURVE",
 "169 561 OFFCURVE",
 "112 553 CURVE",
-"155 497 LINE",
-"169 500 OFFCURVE",
-"269 517 OFFCURVE",
+"97 409 LINE",
+"143 409 LINE",
+"167 499 LINE",
+"199 505 OFFCURVE",
+"271 517 OFFCURVE",
 "281 517 CURVE SMOOTH",
 "311 517 OFFCURVE",
 "310 478 OFFCURVE",
@@ -49002,26 +48957,6 @@ nodes = (
 "263 317 OFFCURVE",
 "19 39 CURVE",
 "20 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"329 259 OFFCURVE",
-"271 395 OFFCURVE",
-"366 0 LINE",
-"393 160 LINE",
-"346 160 LINE",
-"300 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"143 409 LINE",
-"182 553 LINE",
-"112 553 LINE",
-"97 409 LINE"
 );
 }
 );
@@ -49087,7 +49022,9 @@ paths = (
 closed = 1;
 nodes = (
 "291 0 LINE",
-"268 25 LINE",
+"314 159 LINE",
+"295 159 LINE",
+"262 25 LINE",
 "59 25 LINE",
 "60 35 LINE",
 "286 318 OFFCURVE",
@@ -49099,9 +49036,11 @@ nodes = (
 "220 564 OFFCURVE",
 "151 553 OFFCURVE",
 "94 543 CURVE",
-"112 519 LINE",
-"126 522 OFFCURVE",
-"241 540 OFFCURVE",
+"77 404 LINE",
+"95 404 LINE",
+"123 521 LINE",
+"156 527 OFFCURVE",
+"243 540 OFFCURVE",
 "253 540 CURVE SMOOTH",
 "297 540 OFFCURVE",
 "312 503 OFFCURVE",
@@ -49110,26 +49049,6 @@ nodes = (
 "269 339 OFFCURVE",
 "14 19 CURVE",
 "15 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"237 355 OFFCURVE",
-"193 385 OFFCURVE",
-"291 0 LINE",
-"314 159 LINE",
-"295 159 LINE",
-"256 0 LINE"
-);
-},
-{
-closed = 1;
-nodes = (
-"95 404 LINE",
-"128 543 LINE",
-"94 543 LINE",
-"77 404 LINE"
 );
 }
 );

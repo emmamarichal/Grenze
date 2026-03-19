@@ -6,6 +6,7 @@ axisOrder:
   - ital
 familyName: Grenze
 cleanUp: true
+decomposeTransformedComponents: false
 stat:
   Grenze[wght].ttf:
     - name: Weight
