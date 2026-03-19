@@ -13,6 +13,10 @@ at omnibus.type@gmail.com
 
 ChangeLog
 
+19 Mar 2026 (v2.000)
+- Updated to VF font
+- Mastering for Variable fonts
+
 2 Apr 2018 (v.1.001) Omnibus-Type
 - Initial release
 
@@ -38,6 +42,11 @@ W: http://www.omnibus-type.com
 D: Typeface development
 
 N: Yorlmar Campos
+E: omnibus.type@gmail.com
+W: http://www.omnibus-type.com
+D: Typeface development
+
+N: Eduardo Rodríguez Tunni
 E: omnibus.type@gmail.com
 W: http://www.omnibus-type.com
 D: Typeface development
