@@ -6,7 +6,8 @@
 Grenze is a big typeface system of 9 weights (Thin, Extra Light, Light, Regular, Medium, Semi Bold, Bold, Extra Bold and Black) with matching italics. A hybrid development between Roman and Blackletter styles, in search of combining the impact and attraction of texture with the readability of classical forms. Designed to be applied mainly in magazines, it presents great performance and a rich palette of colors that invites to uses creative applications. The name of this family derives from the word “frontier”. Grenze (selected in Tipos Latinos 2018) was designed by Renata Polastri & Omnibus-Type Team. 
 
 
-![Sample of Grenze Family.](sources/Grenze.png "Grenze Family")
+![Sample of Grenze Family.](Sources/Grenze-01.png "Grenze Family")
+![Sample of Grenze Family.](Sources/Grenze-02.png "Grenze Family")
 
 #### Grenze Family contains:
 
@@ -55,6 +56,10 @@ This information should be distributed along with the Grenze fonts and any deriv
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
+**19 Mar 2026 (v2.000)
+- Updated to VF font
+- Mastering for Variable fonts
+
 **02 Apr 2018 (v.1.001) Omnibus-Type**  
 - Initial release
 
@@ -63,7 +68,7 @@ This information should be distributed along with the Grenze fonts and any deriv
 If you make modifications be sure to add your name (N), email (E), web-address
 (if you have one) (W) and description (D). This list is in alphabetical order.
 
-**N:** **Oscar Guerrero Cañizares**  
+**N:** **Yorlmar Campos**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
@@ -73,12 +78,17 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
 
+**N:** **Oscar Guerrero Cañizares**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
+
 **N:** **Renata Polastri**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Designer
 
-**N:** **Yorlmar Campos**  
+**N:** **Eduardo Rodríguez Tunni**  
 **E:** omnibus.type@gmail.com  
 **W:** http://www.omnibus-type.com  
 **D:** Typeface development
