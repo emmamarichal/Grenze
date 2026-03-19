@@ -58689,43 +58689,6 @@ width = 345;
 unicode = 45;
 },
 {
-glyphname = softhyphen;
-kernLeft = hyphen;
-kernRight = hyphen;
-layers = (
-{
-layerId = "16B79A64-180D-495F-8650-CA27198DF3EF";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 285;
-},
-{
-layerId = "D9712079-C16A-42CB-8BA4-BD9ECFFACF10";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 315;
-},
-{
-layerId = "E259E77F-022A-45EF-A0F1-1168268390B3";
-shapes = (
-{
-ref = hyphen;
-}
-);
-width = 345;
-}
-);
-metricLeft = hyphen;
-metricRight = hyphen;
-unicode = 173;
-},
-{
 color = 4;
 glyphname = endash;
 kernLeft = hyphen;
@@ -58994,42 +58957,6 @@ shapes = (
 {
 pos = (14,80);
 ref = hyphen;
-}
-);
-width = 345;
-}
-);
-metricLeft = hyphen;
-metricRight = hyphen;
-},
-{
-glyphname = softhyphen.case;
-kernLeft = hyphen;
-kernRight = hyphen;
-layers = (
-{
-layerId = "16B79A64-180D-495F-8650-CA27198DF3EF";
-shapes = (
-{
-ref = hyphen.case;
-}
-);
-width = 285;
-},
-{
-layerId = "D9712079-C16A-42CB-8BA4-BD9ECFFACF10";
-shapes = (
-{
-ref = hyphen.case;
-}
-);
-width = 315;
-},
-{
-layerId = "E259E77F-022A-45EF-A0F1-1168268390B3";
-shapes = (
-{
-ref = hyphen.case;
 }
 );
 width = 345;
