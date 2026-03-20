@@ -56,7 +56,7 @@ This information should be distributed along with the Grenze fonts and any deriv
 
 *To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com*
 
-**19 Mar 2026 (v2.000)
+**19 Mar 2026 (v1.003)
 - Updated to VF font
 - Mastering for Variable fonts
 
