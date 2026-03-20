@@ -13,7 +13,7 @@ at omnibus.type@gmail.com
 
 ChangeLog
 
-19 Mar 2026 (v2.000)
+19 Mar 2026 (v1.003)
 - Updated to VF font
 - Mastering for Variable fonts
 
